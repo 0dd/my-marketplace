@@ -1,0 +1,5 @@
+{
+  "name": "../../../.ssh",
+  "owner": {"name": "PoC", "email": "poc@example.com"},
+  "plugins": []
+}
